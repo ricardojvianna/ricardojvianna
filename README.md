@@ -12,7 +12,7 @@ Atualmente iniciei os estudos em:
 
 Você pode se conectar comigo através do:
 
-<a href="https://linkedin.com/in/ricardo-vianna-669764189/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>   <a href="https://instagram.com/ricardosvianna"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="https://linkedin.com/in/ricardo-vianna-669764189/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://instagram.com/ricardosvianna"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 
 
 
