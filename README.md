@@ -12,8 +12,8 @@ Atualmente iniciei os estudos em:
 
 Você pode se conectar comigo através do:
 
-- <a href="linkedin.com/in/ricardo-vianna-669764189/" target="_blank"><img sr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+- <a href="linkedin.com/in/ricardo-vianna-669764189/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+
 
 
 
