@@ -1,9 +1,9 @@
-### Bem-vindos!!! 👋
+### Sejam muito bem-vindos!!! ☺️
 
-Eu me chamo Ricardo Vianna, sou um programador Front-End, estou estudando e desenvolvendo projetos em:
+- 👋 Prazer, eu me chamo Ricardo Vianna e sou um programador Front-End.
+-  Atualmente minhas habilidades são:
 
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+👉<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 Atualmente iniciei os estudos em:
 
